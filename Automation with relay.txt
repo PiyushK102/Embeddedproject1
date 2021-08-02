@@ -1,0 +1,3 @@
+Enter commands given in the arduino code in virtual terminal to see the effect on the pins
+like :
+F and f for switching the effect on pin 6
